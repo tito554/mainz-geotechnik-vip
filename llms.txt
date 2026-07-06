@@ -1,0 +1,41 @@
+# Geotechnik — Mainz
+
+> Geotechnical engineering services in Mainz, Deutschland.
+
+## Services
+- [Atterberg Grenzen](https://mainz.geotechnik.vip/atterberg-grenzen/)
+- [Bodenplatten](https://mainz.geotechnik.vip/bodenplatten/)
+- [Bodenverbesserung](https://mainz.geotechnik.vip/bodenverbesserung/)
+- [Boschungsstabilitat](https://mainz.geotechnik.vip/boschungsstabilitat/)
+- [Cbr Strasse](https://mainz.geotechnik.vip/cbr-strasse/)
+- [Cpt Versuch](https://mainz.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://mainz.geotechnik.vip/erdbebenisolierung/)
+- [Flexibler Belag](https://mainz.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://mainz.geotechnik.vip/fundamente/)
+- [Geophysik](https://mainz.geotechnik.vip/geophysik/)
+- [Grundungen](https://mainz.geotechnik.vip/grundungen/)
+- [Hange](https://mainz.geotechnik.vip/hange/)
+- [Korngrossenanalyse](https://mainz.geotechnik.vip/korngrossenanalyse/)
+- [Labor](https://mainz.geotechnik.vip/labor/)
+- [Labor In Situ](https://mainz.geotechnik.vip/labor-in-situ/)
+- [Masw](https://mainz.geotechnik.vip/masw/)
+- [Plattendruckversuch](https://mainz.geotechnik.vip/plattendruckversuch/)
+- [Sandkegel Dichte](https://mainz.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://mainz.geotechnik.vip/schottersaulen/)
+- [Schurfgruben](https://mainz.geotechnik.vip/schurfgruben/)
+- [Seismik](https://mainz.geotechnik.vip/seismik/)
+- [Seismische Mikrozonierung](https://mainz.geotechnik.vip/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://mainz.geotechnik.vip/seismische-refraktion/)
+- [Spt Bohrung](https://mainz.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://mainz.geotechnik.vip/starrer-belag/)
+- [Strassenbau](https://mainz.geotechnik.vip/strassenbau/)
+- [Stutzmauern](https://mainz.geotechnik.vip/stutzmauern/)
+- [Triaxialversuch](https://mainz.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://mainz.geotechnik.vip/untersuchung/)
+
+## Contact
+- Website: https://mainz.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Mainz, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
